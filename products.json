@@ -8,5 +8,15 @@
     "price": "$84.98",
     "rating": 4.8,
     "affiliateUrl": "https://amzn.to/4fBNbt4"
+  },
+  {
+    "id": 1,
+    "title": "Apple AirPods 2",
+    "image": "https://m.media-amazon.com/images/I/41XjE57VLvL._AC_SX679_.jpg",
+    "description": "Wireless Apple AirPods with charging case delivering clear sound, quick connectivity, and seamless pairing with Apple devices. Lightweight and comfortable for music, podcasts, calls, and online radio listening on the go.",
+    "category": "airpods",
+    "price": "$79.99",
+    "rating": 3.9,
+    "affiliateUrl": "https://amzn.to/4tNXZI5"
   }
 ]
