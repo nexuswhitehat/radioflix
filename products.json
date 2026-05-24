@@ -4,9 +4,6 @@
     "title": "JBL Go 3 Portable Bluetooth Speaker",
     "image": "https://m.media-amazon.com/images/I/71EjsFSJ-lL._AC_SL1500_.jpg",
     "description": "Compact and waterproof Bluetooth speaker with powerful JBL Original Pro Sound, deep bass, and up to 5 hours of playtime. Perfect for enjoying online radio, music, and podcasts anywhere — at home, outdoors, or while traveling.",
-    "category": "speaker",
-    "price": "$84.98",
-    "rating": 4.8,
     "affiliateUrl": "https://amzn.to/4fBNbt4"
   },
   {
@@ -14,9 +11,6 @@
     "title": "Apple AirPods 2",
     "image": "https://m.media-amazon.com/images/I/41XjE57VLvL._AC_SX679_.jpg",
     "description": "Wireless Apple AirPods with charging case delivering clear sound, quick connectivity, and seamless pairing with Apple devices. Lightweight and comfortable for music, podcasts, calls, and online radio listening on the go.",
-    "category": "airpods",
-    "price": "$79.99",
-    "rating": 3.9,
     "affiliateUrl": "https://amzn.to/4tNXZI5"
   },
   {
@@ -24,9 +18,13 @@
     "title": "Bose QuietComfort Headphones",
     "image": "https://m.media-amazon.com/images/I/51f7KKP25PL._AC_SX679_.jpg",
     "description": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Black",
-    "category": "headphone",
-    "price": "$225",
-    "rating": 4.6,
     "affiliateUrl": "https://amzn.to/3PHRLvs"
+  },
+  {
+    "id": 4,
+    "title": "Amazon Echo Show 5",
+    "image": "https://m.media-amazon.com/images/I/61DPOznwayL._AC_SL1500_.jpg",
+    "description": "Alexa can show you more - Echo Show 5 includes a 5.5” display so you can see news and weather at a glance, make video calls, view compatible cameras, stream music and shows, and more.",
+    "affiliateUrl": "https://amzn.to/4v1rG9v"
   }
 ]
