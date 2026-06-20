@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /?q=
+Disallow: /search?
+
+Sitemap: https://radioflix.online/sitemap.xml
